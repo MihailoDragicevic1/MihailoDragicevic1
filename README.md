@@ -6,7 +6,7 @@ I enjoy building practical software and exploring how systems work internally â€
 
 ### Tech
 
-**Languages:** Java, Go, Python, C, Kotlin, TypeScript, JavaScript, SQL  
+**Languages:** Java,C, Go, Python, Kotlin, TypeScript, JavaScript, SQL  
 **Technologies:** Spring Boot, Angular, JavaFX, Docker, Maven, Git, MySQL  
 **Interests:** Backend Development, Distributed Systems, Concurrent Programming, Machine Learning
 
