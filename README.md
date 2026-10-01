@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mihailo Dragićević
 
-<!--
-**MihailoDragicevic1/MihailoDragicevic1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the Faculty of Computing (RAF) in Belgrade, focused on **software engineering, backend development, and distributed systems**.
 
-Here are some ideas to get you started:
+I enjoy building practical software and exploring how systems work internally — from storage engines and concurrent applications to full-stack platforms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+
+**Languages:** Java, Go, Python, C, Kotlin, TypeScript, JavaScript, SQL  
+**Technologies:** Spring Boot, Angular, JavaFX, Docker, Maven, Git, MySQL  
+**Interests:** Backend Development, Distributed Systems, Concurrent Programming, Machine Learning
+
+### Projects
+
+Selected repositories below showcase my work across distributed systems, backend and full-stack development, concurrent programming, language implementation, and application development.
+
+[LinkedIn](https://www.linkedin.com/in/mihailo-dragicevic-3aaa81308/)
