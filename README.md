@@ -1,6 +1,6 @@
 # Mihailo Dragićević
 
-Computer Science student at the Faculty of Computing (RAF) in Belgrade, focused on **software engineering, backend development, and distributed systems**.
+Computer Science student at the Faculty of Computing (RAF) in Belgrade.
 
 I enjoy building practical software and exploring how systems work internally — from storage engines and concurrent applications to full-stack platforms.
 
